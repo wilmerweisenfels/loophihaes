@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choosooku.droid-break.info/sitemap.xml
